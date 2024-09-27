@@ -9,24 +9,23 @@ In this way, each folder will contain 10 million SKG-IF records in total.
 The naming for part files and the subfolders is not binding.
 To ease the consumption of such a file, the following structure has been agreed and should be followed when exposing data in this way.
 
-
-| ./dump.zip
-| ├── /products
-| │   ├── /00000-00999
-| │   │   ├── part_00000.jsonl
-| │   │   ├── part_00001.jsonl
-| │   │   ├── ...
-| │   │   └── part_00999.jsonl
-| │   ├── /01000-01999
-| │   │   ├── part_01000.jsonl
-| │   │   ├── part_01001.jsonl
-| │   │   ├── ...
-| │   │   └── part_01999.jsonl
-| │   └── /...
-| ├── /persons
-| │   ├── /00000-00999
-| │   ├── /01000-01999
-| │   └── /...
-| └── /...
-| 
-| 
+```
+./dump.zip
+├── /products
+│   ├── /00000-00999
+│   │   ├── part_00000.jsonl
+│   │   ├── part_00001.jsonl
+│   │   ├── ...
+│   │   └── part_00999.jsonl
+│   ├── /01000-01999
+│   │   ├── part_01000.jsonl
+│   │   ├── part_01001.jsonl
+│   │   ├── ...
+│   │   └── part_01999.jsonl
+│   └── /...
+├── /persons
+│   ├── /00000-00999
+│   ├── /01000-01999
+│   └── /...
+└── /...
+```
