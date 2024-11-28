@@ -1,5 +1,5 @@
 ---
-title: Configuration
+title: Snapshot
 nav_order: 2
 ---
 
