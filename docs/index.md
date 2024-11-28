@@ -1,3 +1,8 @@
+---
+title: Configuration
+nav_order: 2
+---
+
 # Snapshot guidelines
 
 For the sake of simplicity, JSON-LD has been chosen as a reference data format for the exchange as suggested by the examples described in the core model entities.
