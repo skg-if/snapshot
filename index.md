@@ -1,5 +1,5 @@
 ---
-title: SKG-IF Snapshot Guidelines
+title: Snapshot guidelines
 layout: default
 nav_order: 7
 ---
