@@ -4,7 +4,7 @@ layout: default
 nav_order: 7
 ---
 
-# SKG-IF Snapshot Guidelines
+# Snapshot guidelines
 
 For the sake of simplicity, JSON-LD has been chosen as a reference data format for the exchange as suggested by the examples described in the core model entities.
 
