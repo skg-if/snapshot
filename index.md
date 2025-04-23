@@ -1,7 +1,7 @@
 ---
 title: Snapshot guidelines
 layout: default
-nav_order: 7
+nav_order: 8
 ---
 
 # Snapshot guidelines
